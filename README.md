@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ChaseCodeing
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning about shortcuts and my dream is to learn to code game and eta.
+- 💞️ I’m looking to collaborate on coding stuff like helping out sites that are very to work with
